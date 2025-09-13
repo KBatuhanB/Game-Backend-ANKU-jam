@@ -2,7 +2,15 @@
 
 ## 📋 About The Project
 
+![XErrWopZDD-1748099256](https://github.com/user-attachments/assets/63877c7b-7e65-441c-9bac-e248dc86e644)
+![6GLxJpQNfN-1748099257](https://github.com/user-attachments/assets/ba7e9c6a-08ee-43fb-81d7-94502e2b5a08)
+![o2TBn825y2-1748099258](https://github.com/user-attachments/assets/2b857d33-cef2-4817-95bb-741e37d95d64)
+
 **Ankus Axos** is a 2D puzzle-platform game developed during the Ankara University ANKU Game Jam. Players must strategically place limited objects to rescue axolotls while racing against time.
+
+> The main character distributes their own lifetime to placed objects. The goal is to rescue all axolotls on the map by ensuring neither the character's lifetime nor the lifetimes of the placed objects run out before the rescue is complete. This unique mechanic challenges players to manage time and resources efficiently to complete each level.
+
+## Game Link: [Ankus Axos](https://fiuby.com/games/axolotl-ascension)
 
 ### 🏆 Development Team
 - **Kelami Batuhan Bölükbaşı** - Backend Developer & Scripting
@@ -211,5 +219,6 @@ Backend Developer & Unity Programmer
 - 🐙 GitHub: [Kelami Batuhan](https://github.com/KBatuhanB)
 
 ---
+
 
 *This project demonstrates my technical skills and problem-solving abilities in game development as a portfolio work.*
